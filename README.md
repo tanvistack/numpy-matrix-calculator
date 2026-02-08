@@ -1,5 +1,5 @@
 # numpy-matrix-calculator
-# NumPy Matrix Operations
+
 
 This project demonstrates basic matrix operations using **NumPy** in Python.
 
